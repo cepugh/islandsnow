@@ -3,6 +3,7 @@
   box-shadow: none;
   border: none;
 }
-.ui.image {
-  margin-top: 50px;
-}
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+
